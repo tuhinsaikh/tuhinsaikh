@@ -9,7 +9,9 @@
 
 - 💬 Ask me about **Java, JavaScript,HTML,CSS**
 
-- 📫 How to reach me **tsaikh7@gmail.com**
+- 📫 Gmail **tsaikh7@gmail.com**
+- 📫 LinkedIn link **https://linkedin.com/in/tuhin-saikh**
+- 📫 Portfolio link **https://steady-creponne-0f98c9.netlify.app/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fAr5u98ytE-lLgWjFnUlvYgmDFVjBL-3/view?usp=sharing](https://drive.google.com/file/d/1fAr5u98ytE-lLgWjFnUlvYgmDFVjBL-3/view?usp=sharing)
 
