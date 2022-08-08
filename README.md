@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tuhin Saikh</h1>
 <h3 align="center">Java Backend Developer</h3>
+<h4 align="center">Innovative optimized solution seeker. To establish a long-term career in a company where I may utilize my Developer professional skills and knowledge and inspiration to those around me.</h4>
+  
+<h4 align="center">Backend Developer: 2022 (Software Developer).</h4>
+<h4 align="center">Graduation: 2019 (Sociology, History, Education, Environment Science, Bengali, English).</h4>
+<h4 align="center">Higher Secondary: 2016 (Physics, Chemistry, Mathematics, Biology, Bengali, English).</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinsaikh&label=Profile%20views&color=0e75b6&style=flat" alt="tuhinsaikh" /> </p>
 
