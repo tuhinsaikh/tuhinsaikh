@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuhinsaikh" alt="tuhinsaikh" /></a> </p>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Java Backend Developer**
 
-- 💬 Ask me about **Java, JavaScript,HTML,CSS**
+- 💬 Ask me about **Java,JavaScript,HTML,CSS,MySQL,HIbernate,SpringBoot**
 
 - 📫 Gmail **tsaikh7@gmail.com**
 - 📫 LinkedIn link **https://linkedin.com/in/tuhin-saikh**
