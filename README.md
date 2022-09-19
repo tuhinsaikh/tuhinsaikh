@@ -16,7 +16,7 @@
 
 - 📫 Gmail **tsaikh7@gmail.com**
 - 📫 LinkedIn link **https://linkedin.com/in/tuhin-saikh**
-- 📫 Portfolio link **https://tuhin-saikh-4.netlify.app/**
+- 📫 Portfolio link **https://tuhin-saikh-portfolio.netlify.app/**
 - 📫 Blogs link **https://medium.com/@tsaikh7**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fAr5u98ytE-lLgWjFnUlvYgmDFVjBL-3/view?usp=sharing](https://drive.google.com/file/d/1fAr5u98ytE-lLgWjFnUlvYgmDFVjBL-3/view?usp=sharing)
