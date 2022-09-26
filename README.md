@@ -19,7 +19,7 @@
 - 📫 Portfolio link **https://tuhin-saikh-portfolio.netlify.app/**
 - 📫 Blogs link **https://medium.com/@tsaikh7**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fAr5u98ytE-lLgWjFnUlvYgmDFVjBL-3/view?usp=sharing](https://drive.google.com/file/d/1fAr5u98ytE-lLgWjFnUlvYgmDFVjBL-3/view?usp=sharing)
+- 📄 Know about my experiences **https://drive.google.com/file/d/1CsHdhE0ncHd6Z4_G4CbJROfUVIFMfD9q/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
