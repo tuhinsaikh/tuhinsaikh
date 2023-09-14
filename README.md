@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuhinsaikh" alt="tuhinsaikh" /></a> </p>
 
-- 🌱 I’m currently learning **Java Backend Developer**
+- 🌱 I’m currently working as a **Java Developer**
 
 - 💬 Ask me about **Java,JavaScript,HTML,CSS,MySQL,HIbernate,SpringBoot**
 
