@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tuhin Saikh</h1>
 <h3 align="center">Software Engineer</h3>
-<h4 align="center">As a Software Engineer with 2 years of experience, I am passionate about building efficient, scalable, and user-friendly applications. My expertise spans across Java, Spring, React, and various backend technologies, allowing me to create robust solutions that enhance performance and user experience. I thrive on solving complex problems and continuously seek opportunities to learn and grow. Whether it's developing RESTful APIs, optimizing database interactions, or contributing to frontend development, I am committed to delivering high-quality results. I am excited about collaborating with like-minded professionals and contributing to innovative projects that make a real impact.</h4>
+<h4 align="center">As a Software Engineer with 3 years of experience, I am passionate about building efficient, scalable, and user-friendly applications. My expertise spans across Java, Spring, React, and various backend technologies, allowing me to create robust solutions that enhance performance and user experience. I thrive on solving complex problems and continuously seek opportunities to learn and grow. Whether it's developing RESTful APIs, optimizing database interactions, or contributing to frontend development, I am committed to delivering high-quality results. I am excited about collaborating with like-minded professionals and contributing to innovative projects that make a real impact.</h4>
 
 
 - 🌱 I’m currently working as a **Software Engineer**
